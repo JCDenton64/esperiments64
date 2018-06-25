@@ -1,0 +1,17 @@
+####################
+# block
+####################
+
+block {
+    I:mtDoor=71
+    I:mtSensibleDoor=64
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:mtDoorItem=330
+    I:mtDoorSensibleItem=324
